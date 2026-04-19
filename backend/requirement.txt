@@ -1,0 +1,11 @@
+pydantic
+fastapi
+dotenv
+uvicorn
+
+langchain-qwq
+langchain
+
+llama-index
+llama-index-llms-dashscope
+llama-index-embeddings-dashscope
